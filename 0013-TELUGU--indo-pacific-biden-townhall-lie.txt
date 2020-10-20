@@ -60,9 +60,11 @@ VISUAL ASSETS TO COLLECT
 ======
 VIDEO EDITING
 ======
-import conversation video on timeline
-cut out the empty parts
-begin with music title, then intro, then music title again
+    import conversation video on timeline
+    cut out the empty parts till first biden video
+cut out the empty parts after first biden video
+    begin with music title, then intro, then music title again
+place visual insets between two music intros
 place biden foreign policy answer intro after full conversation
 smaller sized frame for biden answer
 import the comedy tiktok on timeline
