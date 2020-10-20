@@ -61,25 +61,26 @@ VISUAL ASSETS TO COLLECT
 VIDEO EDITING
 ======
     import conversation video on timeline
-    cut out the empty parts till first biden video
-cut out the empty parts after first biden video
+    cut out the empty parts till first biden video insert
+    cut out the empty parts till second biden video insert
+    cut out the empty parts from second biden video insert to the end of the timeline
     begin with music title, then intro, then music title again
-place visual insets between two music intros
-place biden foreign policy answer intro after full conversation
-smaller sized frame for biden answer
-import the comedy tiktok on timeline
-replace adele music with copyright free youtube audio (already done)
-repeat comedy tiktok video
-place biden foreign policy falsehoods before the last section
-add photos in the intro section
-didn't tell wife ji I was making a video, title card (removed)
-frame the visual assests upto dem republican and epluribis unum
-final section dem republican and epluribis unum visual assets
-try shastrarth photo in 1080x1920 layout with caption (let go)
+    place visual insets between two music intros
+    place biden foreign policy answer intro after full conversation
+    smaller sized frame for biden answer
+    import the comedy tiktok on timeline
+    replace adele music with copyright free youtube audio (already done)
+    repeat comedy tiktok video
+    place biden foreign policy falsehoods before the last section
+    edit visual insets between two biden videos
+    final section dem republican and epluribis unum visual assets
+edit visual before first biden video insert
 lower volume on the once more comedy pop and other places
 final "secret" subscribe request and open source creative projects participaiton call
 shastrarth title card
 fit all visual assests in frames
+
+move some things to a separate bloopers timeline
 
 
 kala techtogether contact
