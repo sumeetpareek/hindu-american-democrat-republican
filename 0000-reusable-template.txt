@@ -17,7 +17,6 @@ helps me go from a scattered mind full of ideas to an actual finished video.
 ======
 KEY
 ======
-
 items like this that begin on the left edge still need work
     items like this that are indented by 4 spaces do not need work anymore
     they are either DONE, or LET GONE OF, or are in other _end states_ like that
