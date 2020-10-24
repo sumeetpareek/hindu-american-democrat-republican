@@ -43,17 +43,17 @@ CONVERSATION POINTS ENGLISH INTRO
 when trump says india is filthy
 in the context of pollution
 
-2. what young hindu americans on twitter 
-do not know about modi ji's approach to life 
+2. What young Hindu Americans on twitter 
+do not know about Modi ji's approach to life 
 and his ahead of target clean energy work
 
 3. a comedy tiktok about a girl's very happy trick of picking up guys, 
 what gen-z folks also call pressing guys
 
-4. what is the dharma of balance? 
-what is the dharma of shastrarth?
-and why I honestly argue that from 2020 to 2030
-young hindu americans should go 60% republican
+4. What is the Dharma of Balance? 
+What is the Dharma of Shastrarth?
+And why I honestly argue, that from 2020 through 2030,
+young Hindu Americans should go 60% Republican
 
 
 
@@ -69,6 +69,16 @@ VIDEO EDITING
     wife chores break, push another new commit 
     reachout 5 to 10 friends and future filmmaking team about making this video
     move old videos to hard disk to make space on laptop
+    create bins `part 27-28-29 videos, part 27-28-29 photos, part 27-28-29 square insets, part 27-28-29 1920x1080 insets, part 27-28-29 1080x1920 insets`
+CREATE A NEW KIND OF INTRO SECTION
+        import all videos and start timeline sequences `0027-INTRO-english-timeline` and `0027-ENGLISH-timeline`
+        noise reduciton of the audio
+        cut out the empty parts
+        create layout of point numbers and conversation header
+        text of all four points
+        animation of going from one point to the other
+    photos for every point
+    fix the missing intro music caused by moving old files to external harddisk
 get tiktok `e60398412d3256b466d023cdc8916f4d` in place
 import english intro points on timeline
 have text and placeholder photos of each point show up
