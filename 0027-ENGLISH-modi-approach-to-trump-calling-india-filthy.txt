@@ -67,12 +67,15 @@ VIDEO EDITING
     video record free form conversation .. 80% done in 3 parts video
     video record free form conversation .. remaining 20% done in multiple takes
     wife chores break, push another new commit 
-reachout 5 to 10 friends and future filmmaking team about making this video
-move old videos to hard disk to make space on laptop
+    reachout 5 to 10 friends and future filmmaking team about making this video
+    move old videos to hard disk to make space on laptop
 get tiktok `e60398412d3256b466d023cdc8916f4d` in place
 import english intro points on timeline
 have text and placeholder photos of each point show up
 bring in the music title sequence
+?? add conversation about new york times and subscription and space isro  ??
+?? add conversation about Sri sir's waste management effort ??
+import all the conversation videos to timeline
 (( todo more ... ))
 when this video is released rename git repository
 
