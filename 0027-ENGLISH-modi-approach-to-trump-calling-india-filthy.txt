@@ -78,25 +78,25 @@ CREATE A NEW KIND OF INTRO SECTION
     create layout of point numbers and conversation header
     text of all four points
     animation of going from one point to the other
-photos for every intro point
-    ganesh writing research with speech bubble "no problem, but opportunity"
-    full india map of all states
-    trump speaking with speech bubble "india is filthy"
-    modi ji addressing people of india
-    solar installation work and news
-    pressing guys idea tiktok
-    dharma of balance
-    dharma of shastrarth
-    republican swing graph for young hindu americans
-    republican election symbol
-fix the missing intro music caused by moving old files to external harddisk
+    photos for every intro point
+        ganesh writing research with speech bubble "no problem, but opportunity"
+        full india map of all states
+        trump speaking with speech bubble "india is filthy"
+        modi ji addressing people of india
+        solar installation work and news
+        pressing guys idea tiktok
+        dharma of balance
+        dharma of shastrarth
+        republican swing graph for young hindu americans
+    fix the missing intro music caused by moving old files to external harddisk
+rearrage to start with tiktok 
 
     listen to the full play after empty are parts cut out and list visual assets needed
     place hasan lie video after cardi B comparison
     fix pop sound in some early photo placements
     reduce saturation of dharma of shastrarth
     prepare and place the next 4 visual assets upto intro republican swing
-get tiktok `e60398412d3256b466d023cdc8916f4d` in place
+    get tiktok `e60398412d3256b466d023cdc8916f4d` in place
 import english intro points on timeline
 have text and placeholder photos of each point show up
 bring in the music title sequence
@@ -330,7 +330,7 @@ PLACE VISUAL ASSETS
     dharma of balance
     dharma of shastrarth
     97 dem to 60 republican
-title and intro music
+    title and intro music
     hasan lying first time video
 screenshot of hasan lying about modi and trump
     fred astaire and austin powers almost together
