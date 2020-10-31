@@ -125,8 +125,9 @@ collect, import, frame, edit frames, assemble, and edit again .. the next 10 vis
     DONE COLLECTION, but two
     DONE IMPORT, but two
     DONE FRAME, but two
+    DONE EDIT FRAMES, but two
     
-    NEXT .. edit frames 
+    NEXT .. assemble
 
 good comedian hasan .. hasan minaj close up suit gel
 liar comedian hasan .. hasan minaj lied about hindus mocked hindoos
